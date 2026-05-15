@@ -8,7 +8,6 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/PYROS/Documents/PlatformIO/Projects/SIS.EMBEB/include",
                 "C:/Users/PYROS/Documents/PlatformIO/Projects/SIS.EMBEB/src",
                 "C:/Users/PYROS/Documents/PlatformIO/Projects/SIS.EMBEB/.pio/libdeps/uno/DHT sensor library",
                 "C:/Users/PYROS/Documents/PlatformIO/Projects/SIS.EMBEB/.pio/libdeps/uno/Adafruit Unified Sensor",
@@ -24,7 +23,6 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/PYROS/Documents/PlatformIO/Projects/SIS.EMBEB/include",
                     "C:/Users/PYROS/Documents/PlatformIO/Projects/SIS.EMBEB/src",
                     "C:/Users/PYROS/Documents/PlatformIO/Projects/SIS.EMBEB/.pio/libdeps/uno/DHT sensor library",
                     "C:/Users/PYROS/Documents/PlatformIO/Projects/SIS.EMBEB/.pio/libdeps/uno/Adafruit Unified Sensor",
